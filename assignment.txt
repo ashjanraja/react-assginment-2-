@@ -1,0 +1,13 @@
+1) Using useState, render a text "Hello World", on clicking it, 
+it should toggle to "Hello Palestine",and vice versa!
+2) Create Input tag, and get email, and username from user, AddEvent onChange
+ and save the email and username to the state and show these values in the p or
+h1 tage above the form, So when page load user only see 2 inputs but when user
+add some characters in the input, the heading should show, if user input email 
+the value Email: <email> show above if user input username the value in the h or p
+tag should be Username: <username>, if user input both username and email then both
+values should show above the input
+3) Using useState, initiate a array with random sentences with the length of 10 (minimum),
+and add the button with this button name="Change Sentence" When user click on button the sentence 
+should change, use Math.random() function to select random index from array and show that
+index sentence to the user.
